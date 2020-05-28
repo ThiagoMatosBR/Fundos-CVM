@@ -27,4 +27,4 @@ Obter informações dos fundos de investimento listados na CVM. A consulta é re
 Obs adicionais: para melhor entendimento de eventuais erros / exceptions, as ações na página, acesso ao banco de dados e processamento dos captchas são logados no stdout ou em arquivo .log.
 ___
 #### Exemplos de Captchas que são resolvidos:
-xxxx
+xxx
