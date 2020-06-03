@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/ThiagoMatosBR/https://githubcom/ThiagoMatosBR/Fundos-CVMgit.svg)](http://hits.dwyl.com/ThiagoMatosBR/https://githubcom/ThiagoMatosBR/Fundos-CVMgit)
 # Descrição
 ___
 ### Objetivo:
